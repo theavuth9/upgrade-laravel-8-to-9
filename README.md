@@ -1,4 +1,4 @@
-# How to Upgrade Laravel 8 to Laravel 9
+# How to upgrade Laravel `8` to `9`
 
 ### 1. Check the version in `composer.json`
 - change `laravel`:
